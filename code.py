@@ -1,4 +1,4 @@
-import discord
+import discord                                      #I know it's bad, I'm self-learning python in my free time so 
 import asyncio
 import random
 import os
